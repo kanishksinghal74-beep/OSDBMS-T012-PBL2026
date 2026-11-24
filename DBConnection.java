@@ -14,7 +14,7 @@ public final class DBConnection {
 
     private static final String USER = "root";
 
-    private static final String PASSWORD = "kanishk";
+    private static final String PASSWORD = "srcs15/325";
 
     private DBConnection() {
         // Prevent object creation
